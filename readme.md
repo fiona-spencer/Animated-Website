@@ -41,3 +41,15 @@ http://localhost:5173/
 ### Step 4 - 
 
 - Import public folder from: https://github.com/adrianhajdin/award-winning-website/tree/main/public
+
+### Step 5 - Install React Icons
+
+```zsh
+npm install react-icons --save
+```
+
+### Step 5 - Install GSAP
+
+```zsh
+npm install @gsap/react gsap
+```
